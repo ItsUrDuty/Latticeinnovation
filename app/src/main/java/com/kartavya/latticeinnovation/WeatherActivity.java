@@ -55,6 +55,7 @@ public class WeatherActivity extends AppCompatActivity {
 
         linearLayout = findViewById(R.id.sdmssbfjdfbjf);
 
+        //
 
 
         tempC = findViewById(R.id.njvhcgcvcvc);

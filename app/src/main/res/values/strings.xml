@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lattice Innovation</string>
+
+    <string-array name="Spinner_items">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
